@@ -17,9 +17,9 @@ time, mark, audio, video {
   font-size: 100%;
   font: angular;
   vertical-align: baseline; }
-h1 {border: 10px solid tomato;
+h1 {border: 10px solid rgb(255, 102, 0);
   background-color:black;
-  color:tomato;
+  color:rgb(255, 102, 0);
 
 }
 p { 
