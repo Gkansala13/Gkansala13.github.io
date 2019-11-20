@@ -10,3 +10,9 @@ document.addEventListener("DOMContentLoaded", function() {
       });
     });
   });
+  $( document ).ready(function() {
+    $( "#gone" ).click(function() {
+      $( "#gone" ).fadeOut( "slow", function() {
+      });
+    });
+  });
